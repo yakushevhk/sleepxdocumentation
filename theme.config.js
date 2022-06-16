@@ -2,6 +2,15 @@ export default {
   github: 'https://github.com/shuding/nextra',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – SleepX',
+  
+  i18n: [
+    { locale: 'en', text: 'English' },
+    { locale: 'zh', text: '中文' },
+    { locale: 'kr', text: '한국어'},
+    { locale: 'ru', text: 'Русский' },
+    { locale: 'de', text: 'Deutsch' },
+  ],
+
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">SleepX</span>
@@ -62,6 +71,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerText: <>Technology X OÜ {new Date().getFullYear()} ❤️ SleepX</>,
   unstable_faviconGlyph: '👋',
 }

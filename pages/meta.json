@@ -1,11 +1,12 @@
 {
   "index": "Ффффффффф",
-  "get-started": "🥹Get Started",
-  "features": "🥹Features",
-  "app": "App",
-  "items": "Items",
-  "token": "Token"
-  "team": "Team",
-  "contacts": "Contacts",
-  "roadmap": "Roadmap",
+  "get-started": "🥹 Get Started",
+  "features": "🦄 Features",
+  "app": "🎯 App",
+  "items": "👽 Items",
+  "token": "👾 Token",
+  "team": "💅🏽 Team",
+  "contacts": "🐠 Contacts",
+  "roadmap": "🐩 Roadmap",
+  "changelog": "🐖 Changelog"
 }

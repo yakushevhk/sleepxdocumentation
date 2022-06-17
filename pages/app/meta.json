@@ -1,4 +1,5 @@
 {
-  "docs": "Docs Theme",
-  "blog": "Blog Theme"
+  "apps": "iOS and Android",
+  "webapp": "WebApp",
+  "gateway": "Payment Gateway"
 }

@@ -1,12 +1,14 @@
 {
-  "index": "Ффффффффф",
-  "get-started": "🥹 Get Started",
+  "index": "🛏 Introduction",
+  "get-started": "🌟 Get Started",
+  "rules": "📖 Rules",
   "features": "🦄 Features",
-  "app": "🎯 App",
+  "app": "🎯 Apps",
   "items": "👽 Items",
   "token": "👾 Token",
   "team": "💅🏽 Team",
   "contacts": "🐠 Contacts",
+  "terms": "🏴‍☠️ Terms and Conditions",
   "roadmap": "🐩 Roadmap",
   "changelog": "🐖 Changelog"
 }

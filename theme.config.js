@@ -1,7 +1,7 @@
 
 export default {
   github: 'https://github.com/yakushevhk/sleepxdocumentation',
-  docsRepositoryBase: 'https://github.com/yakushevhk/sleepxdocumentation/master',
+  docsRepositoryBase: 'https://github.com/yakushevhk/sleepxdocumentation/',
   titleSuffix: ' – SleepX',
   titleSuffix: ' – SleepX',
   i18n: [

@@ -1,6 +1,7 @@
+
 export default {
   titleSuffix: ' – SleepX',
-  
+  titleSuffix: ' – SleepX',
   i18n: [
     { locale: 'en', text: 'English' },
     { locale: 'zh', text: '中文' },
@@ -27,11 +28,11 @@ export default {
       <meta name="description" content="SleepX Documentation" />
       <meta name="og:description" content="SleepX Documentation" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="http://cloud.sleepx.world/img/intro.png" />
+      <meta name="twitter:image" content="http://cloud.sleepx.world/img/seo.png" />
       <meta name="twitter:site:domain" content="https://docs.sleepx.app" />
       <meta name="twitter:url" content="https://docs.sleepx.app" />
       <meta name="og:title" content="SleepX Documentation" />
-      <meta name="og:image" content="http://cloud.sleepx.world/img/intro.png" />
+      <meta name="og:image" content="http://cloud.sleepx.world/img/seo.png" />
       <meta name="apple-mobile-web-app-title" content="SleepX Documentation" />
       <link
         rel="apple-touch-icon"
